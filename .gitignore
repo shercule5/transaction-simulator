@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+
+.vscode/
+.idea/
+
+ledger.json
+
+__pycache__/
+*.pyc
+ledger.json
